@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>ASSIGNMENTS</title>
+<title>ASSIGNMENTS HTML,CSS,JS</title>
 </head>
 <body>
 <h1>Git and Github</h1>
